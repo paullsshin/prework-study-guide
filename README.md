@@ -6,7 +6,7 @@ My motivation for doing this project is that I want to learn and new skill set a
 
 ## Installation 🔧
 
-The steps I had to go through to install this project was to setup a Github Repository and clone it to VS Code. After I cloned it, I added assets to the project. The assets folder contains an index.html, a style.css, and a script.js. These are all necessary for my project to function properly. The index provides a layout foundation for the whole webpage itself. The style.css provides the ability to customize your webpage. Finally the script.js file proviedes functionality to the webpage.
+N/A
 
 
 ## Usage 💻
@@ -31,11 +31,7 @@ The functionality of the page is simple and as easy as 1,2,3! All you need to do
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 

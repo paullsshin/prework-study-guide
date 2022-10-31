@@ -13,6 +13,8 @@ N/A
 
 The functionality of the page is simple and as easy as 1,2,3! All you need to do is open the webpage and right click your mouse button and from the available options select inspect. After you select inspect, move your mouse so it hovers over "Console" near the bottom half of your screen, After you click on conosle, you should see some words at the bottom of the page that suggests what topic we should study! The function is random as well so whenevr you reload the page the words in the console will change to a different topic! Use the following images as a reference in case you get lost. 
 
+[My Prework Study Guide Webpage](https://paullsshin.github.io/prework-study-guide/)
+
 ![screenshots](./assets/images/Screenshot%202022-10-30%2020.33.35.png) 
 
 <hr>
